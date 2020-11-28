@@ -1,0 +1,19 @@
+{
+    "server_config": {
+        "ip": "192.168.105.58",
+        "port": 4455
+    },
+
+    "led_config":
+        {
+            "id": "1",
+            "LED_COUNT" : 7,
+            "LED_PIN" : 12,
+            "LED_FREQ_HZ" : 800000,
+            "LED_DMA" : 10,
+            "LED_BRIGHTNESS" : 255,
+            "LED_INVERT" : false,
+            "LED_CHANNEL" : 0,
+            "deviceId": "45b8ade8"
+        }
+}
